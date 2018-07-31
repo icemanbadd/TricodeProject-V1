@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_reason_for_pending_or_hold" label="Reason for Pending or Hold" language="en" table="x_4s_tricode_application_data_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reason_for_pending_or_hold</element>
+            <help/>
+            <hint/>
+            <label>Reason for Pending or Hold</label>
+            <language>en</language>
+            <name>x_4s_tricode_application_data_import</name>
+            <plural>Reason for Pending or Holds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 15:18:56</sys_created_on>
+            <sys_id>4f69343637a31300f9738cf6c3990ed9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reason for Pending or Hold</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TRICODE">8912fb2adb789380e3a506e2ca961972</sys_scope>
+            <sys_update_name>sys_documentation_x_4s_tricode_application_data_import_u_reason_for_pending_or_hold_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 15:18:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

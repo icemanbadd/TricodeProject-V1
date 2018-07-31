@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9849828737631300f9738cf6c3990eea" sys_domain="global" table="x_4s_tricode_tricode_application_primary" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc49828737631300f9738cf6c3990eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">1653f18737231300f9738cf6c3990ef3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:46:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:59:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d56cc20b37631300f9738cf6c3990ed2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="Procedures" display_value="Procedures" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">156cc20b37631300f9738cf6c3990ece</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d849828737631300f9738cf6c3990eed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="DX" display_value="DX" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">1c49428737631300f9738cf6c3990e27</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1849828737631300f9738cf6c3990ef1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="ICD" display_value="ICD" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">d049828737631300f9738cf6c3990ee8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1449828737631300f9738cf6c3990ef5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="CPT" display_value="CPT" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990ee8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9449828737631300f9738cf6c3990ef9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="EM" display_value="EM" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">5049828737631300f9738cf6c3990ee9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c49828737631300f9738cf6c3990efd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">1849828737631300f9738cf6c3990ee9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c49c28737631300f9738cf6c3990e02</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_4s_tricode_tricode_application_primary" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">9849828737631300f9738cf6c3990eea</sys_ui_form>
+            <sys_ui_section caption="Date/Time Information" display_value="Date/Time Information" name="x_4s_tricode_tricode_application_primary" sys_domain="global" view="Default view">dc49828737631300f9738cf6c3990ee9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:59:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_4s_tricode_tricode_application_primary</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 15:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9849828737631300f9738cf6c3990eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_4s_tricode_tricode_application_primary</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TRICODE" source="x_4s_tricode">8912fb2adb789380e3a506e2ca961972</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TRICODE">8912fb2adb789380e3a506e2ca961972</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9849828737631300f9738cf6c3990eea</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 15:46:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

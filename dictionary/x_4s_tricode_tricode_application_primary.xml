@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tricode Application Primary" max_length="40" name="x_4s_tricode_tricode_application_primary" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="10 MOD1" max_length="32" name="u_10mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="11 MOD1" max_length="32" name="u_11mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="12 MOD1" max_length="32" name="u_12mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="13 MOD1" max_length="32" name="u_13mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="14 MOD1" max_length="32" name="u_14mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="15 MOD1" max_length="32" name="u_15mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="16 MOD1" max_length="32" name="u_16mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="17 MOD1" max_length="32" name="u_17mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="18 MOD1" max_length="32" name="u_18mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="19 MOD1" max_length="32" name="u_19mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="1 MOD1" max_length="32" name="u_1mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="20 MOD1" max_length="32" name="u_20mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="2 MOD1" max_length="32" name="u_2mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="3 MOD1" max_length="32" name="u_3mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="4 MOD1" max_length="32" name="u_4mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="5 MOD1" max_length="32" name="u_5mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="6 MOD1" max_length="32" name="u_6mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="7 MOD1" max_length="32" name="u_7mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="8 MOD1" max_length="32" name="u_8mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="9 MOD1" max_length="32" name="u_9mod1" reference="x_4s_tricode_tricode_cpt_modifiers" type="reference"/>
+        <element label="DX 1" max_length="32" name="u_dx_1" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 10" max_length="32" name="u_dx_10" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 11" max_length="32" name="u_dx_11" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 12" max_length="32" name="u_dx_12" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 13" max_length="32" name="u_dx_13" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 14" max_length="32" name="u_dx_14" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 15" max_length="32" name="u_dx_15" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 16" max_length="32" name="u_dx_16" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 17" max_length="32" name="u_dx_17" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 18" max_length="32" name="u_dx_18" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 19" max_length="32" name="u_dx_19" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 2" max_length="32" name="u_dx_2" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 20" max_length="32" name="u_dx_20" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 3" max_length="32" name="u_dx_3" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 4" max_length="32" name="u_dx_4" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 5" max_length="32" name="u_dx_5" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 6" max_length="32" name="u_dx_6" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 7" max_length="32" name="u_dx_7" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 8" max_length="32" name="u_dx_8" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="DX 9" max_length="32" name="u_dx_9" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 1" max_length="32" name="u_icd1" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 10" max_length="32" name="u_icd10" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 11" max_length="32" name="u_icd11" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 12" max_length="32" name="u_icd12" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 13" max_length="32" name="u_icd13" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 14" max_length="32" name="u_icd14" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 15" max_length="32" name="u_icd15" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 16" max_length="32" name="u_icd16" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 17" max_length="32" name="u_icd17" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 18" max_length="32" name="u_icd18" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 19" max_length="32" name="u_icd19" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 2" max_length="32" name="u_icd2" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 20" max_length="32" name="u_icd20" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 3" max_length="32" name="u_icd3" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 4" max_length="32" name="u_icd4" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 5" max_length="32" name="u_icd5" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 6" max_length="32" name="u_icd6" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 7" max_length="32" name="u_icd7" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 8" max_length="32" name="u_icd8" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="ICD 9" max_length="32" name="u_icd9" reference="x_4s_tricode_tricode_icd_10_code" type="reference"/>
+        <element label="Medical Procedure 10" max_length="254" name="u_proc10_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 11" max_length="254" name="u_proc11_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 12" max_length="254" name="u_proc12_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 13" max_length="254" name="u_proc13_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 14" max_length="254" name="u_proc14_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 15" max_length="254" name="u_proc15_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 16" max_length="254" name="u_proc16_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 17" max_length="254" name="u_proc17_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 18" max_length="254" name="u_proc18_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 19" max_length="254" name="u_proc19_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 1" max_length="254" name="u_proc1_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 20" max_length="254" name="u_proc20_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 2" max_length="254" name="u_proc2_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 3" max_length="254" name="u_proc3_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 4" max_length="254" name="u_proc4_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 5" max_length="254" name="u_proc5_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 6" max_length="254" name="u_proc6_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 7" max_length="254" name="u_proc7_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 8" max_length="254" name="u_proc8_s" type="glide_encrypted"/>
+        <element label="Medical Procedure 9" max_length="254" name="u_proc9_s" type="glide_encrypted"/>
+        <index name="index">
+            <element name="u_15mod1"/>
+        </index>
+        <index name="index2">
+            <element name="u_3mod1"/>
+        </index>
+        <index name="index3">
+            <element name="u_icd10"/>
+        </index>
+        <index name="index4">
+            <element name="u_14mod1"/>
+        </index>
+        <index name="index5">
+            <element name="u_2mod1"/>
+        </index>
+        <index name="index6">
+            <element name="u_18mod1"/>
+        </index>
+        <index name="index7">
+            <element name="u_icd19"/>
+        </index>
+        <index name="index8">
+            <element name="u_icd14"/>
+        </index>
+        <index name="index9">
+            <element name="u_5mod1"/>
+        </index>
+        <index name="index10">
+            <element name="u_icd13"/>
+        </index>
+        <index name="index11">
+            <element name="u_icd12"/>
+        </index>
+        <index name="index12">
+            <element name="u_icd11"/>
+        </index>
+        <index name="index13">
+            <element name="u_icd18"/>
+        </index>
+        <index name="index14">
+            <element name="u_icd17"/>
+        </index>
+        <index name="index15">
+            <element name="u_17mod1"/>
+        </index>
+        <index name="index16">
+            <element name="u_icd16"/>
+        </index>
+        <index name="index17">
+            <element name="u_icd15"/>
+        </index>
+        <index name="index18">
+            <element name="u_20mod1"/>
+        </index>
+        <index name="index19">
+            <element name="u_icd20"/>
+        </index>
+        <index name="index20">
+            <element name="u_4mod1"/>
+        </index>
+        <index name="index21">
+            <element name="u_16mod1"/>
+        </index>
+        <index name="index22">
+            <element name="u_8mod1"/>
+        </index>
+        <index name="index23">
+            <element name="u_dx_1"/>
+        </index>
+        <index name="index24">
+            <element name="u_dx_2"/>
+        </index>
+        <index name="index25">
+            <element name="u_dx_3"/>
+        </index>
+        <index name="index26">
+            <element name="u_dx_4"/>
+        </index>
+        <index name="index27">
+            <element name="u_dx_5"/>
+        </index>
+        <index name="index28">
+            <element name="u_11mod1"/>
+        </index>
+        <index name="index29">
+            <element name="u_dx_6"/>
+        </index>
+        <index name="index30">
+            <element name="u_dx_7"/>
+        </index>
+        <index name="index31">
+            <element name="u_dx_8"/>
+        </index>
+        <index name="index32">
+            <element name="u_dx_9"/>
+        </index>
+        <index name="index33">
+            <element name="u_7mod1"/>
+        </index>
+        <index name="index34">
+            <element name="u_10mod1"/>
+        </index>
+        <index name="index35">
+            <element name="u_6mod1"/>
+        </index>
+        <index name="index36">
+            <element name="u_icd2"/>
+        </index>
+        <index name="index37">
+            <element name="u_icd3"/>
+        </index>
+        <index name="index38">
+            <element name="u_13mod1"/>
+        </index>
+        <index name="index39">
+            <element name="u_icd1"/>
+        </index>
+        <index name="index40">
+            <element name="u_icd6"/>
+        </index>
+        <index name="index41">
+            <element name="u_icd7"/>
+        </index>
+        <index name="index42">
+            <element name="u_dx_18"/>
+        </index>
+        <index name="index43">
+            <element name="u_icd4"/>
+        </index>
+        <index name="index44">
+            <element name="u_dx_19"/>
+        </index>
+        <index name="index45">
+            <element name="u_icd5"/>
+        </index>
+        <index name="index46">
+            <element name="u_dx_16"/>
+        </index>
+        <index name="index47">
+            <element name="u_dx_17"/>
+        </index>
+        <index name="index48">
+            <element name="u_dx_14"/>
+        </index>
+        <index name="index49">
+            <element name="u_icd8"/>
+        </index>
+        <index name="index50">
+            <element name="u_dx_15"/>
+        </index>
+        <index name="index51">
+            <element name="u_icd9"/>
+        </index>
+        <index name="index52">
+            <element name="u_19mod1"/>
+        </index>
+        <index name="index53">
+            <element name="u_dx_12"/>
+        </index>
+        <index name="index54">
+            <element name="u_1mod1"/>
+        </index>
+        <index name="index55">
+            <element name="u_dx_13"/>
+        </index>
+        <index name="index56">
+            <element name="u_dx_10"/>
+        </index>
+        <index name="index57">
+            <element name="u_dx_11"/>
+        </index>
+        <index name="index58">
+            <element name="u_12mod1"/>
+        </index>
+        <index name="index59">
+            <element name="u_dx_20"/>
+        </index>
+        <index name="index60">
+            <element name="u_9mod1"/>
+        </index>
+    </element>
+</database>
